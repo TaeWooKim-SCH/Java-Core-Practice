@@ -36,7 +36,7 @@ public class Order {
     public int getItemPrice() {
         return itemPrice;
     }
-    
+
     public void setItemPrice(int itemPrice) {
         this.itemPrice = itemPrice;
     }
